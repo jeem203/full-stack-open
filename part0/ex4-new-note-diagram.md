@@ -30,7 +30,7 @@ sequenceDiagram
     activate server
     server-->>browser: the JavaScript file
     deactivate server
-    Note right of browser: Browser executes JS code and fetches JSON data from server
+    Note right of browser: Browser executes JS code that fetches JSON data from server
 
     browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/data.json
     activate server
