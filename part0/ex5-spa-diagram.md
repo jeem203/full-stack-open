@@ -1,6 +1,6 @@
 # Exercise 0.5 - Single Page App diagram
 
-User goes to the single-page app version of the notes app at https://studies.cs.helsinki.fi/exampleapp/spa.
+User goes to the single-page app version of the notes app at https://studies.cs.helsinki.fi/exampleapp/spa
 
 ```mermaid
 sequenceDiagram
